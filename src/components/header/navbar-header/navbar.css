@@ -1,0 +1,114 @@
+/* App.css */
+.wrapper-navbar {
+  background-color: #d1093f !important;
+  box-shadow: none !important;
+  min-height: 55px !important;
+}
+
+.nav-menu {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 18px 19px;
+  text-align: center;
+  height: 100%;
+  text-decoration: none;
+}
+
+.nav-menu:hover {
+  color: #fff !important;
+  border-bottom: 6px solid transparent !important;
+  border-bottom-color: #ffffff !important;
+  text-transform: none !important;
+}
+
+.card {
+  position: absolute;
+  box-shadow: none !important;
+  width: 100%;
+  z-index: 1;
+}
+
+.card-header {
+  max-width: 1400px !important;
+  margin: auto;
+  padding: 0 !important;
+}
+
+.card-header .MuiCardHeader-title {
+  font-size: 12px !important;
+  margin: 20px 0;
+  font-weight: 600 !important;
+  color: #d1093f;
+}
+
+.card-content {
+  max-width: 1400px !important;
+  margin: auto;
+  padding: 0 !important;
+}
+
+.wrapper-sublink {
+  margin-top: 22px !important;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 8px;
+  max-width: 1400px !important;
+  padding: 0px !important;
+}
+
+.sublink {
+  width: 23% !important;
+  padding: 10px;
+  background-color: #ebecef;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+}
+
+.sublink-text {
+  font-size: 10px !important;
+  font-weight: 600 !important;
+}
+
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+  fill: #d1093f;
+}
+
+/* CSS for ImageBox component */
+.image-box-wrapper {
+  position: relative;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  background: linear-gradient(to bottom, #fff 0%, #000 100%);
+}
+
+.image-box {
+  object-fit: contain !important;
+}
+
+.text-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  text-align: left;
+}
+
+.title {
+  font-weight: 600 !important;
+  margin-bottom: 4px;
+  text-indent: -9999px !important;
+}
+
+.link {
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  cursor: pointer;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,127 @@
+.wrapper-best-selling-product {
+  padding: 40px 0;
+}
+
+.wrapper-best-selling-product .react-multi-carousel-item {
+  width: auto;
+  padding: 0 10px !important; /* Add padding around each item for spacing */
+  box-sizing: border-box !important;
+}
+
+.carousel-item-padding-40-px {
+  padding: 10px; /* Spacing between items */
+  box-sizing: border-box;
+}
+
+.wrapper-best-selling-product .react-multi-carousel-item:last-child {
+  margin-right: 0;
+}
+
+.wrapper-best-selling-product .wrapper-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper-best-selling-product .line {
+  width: 50px;
+  height: 2px;
+  background-color: #d1093f;
+}
+
+.wrapper-best-selling-product .circle {
+  width: 10px;
+  height: 10px;
+  background-color: #d1093f;
+  border-radius: 50%;
+}
+
+.wrapper-best-selling-product .title {
+  margin: 0 30px;
+  font-weight: 700;
+  text-align: center;
+  color: #000;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.wrapper-best-selling-product .wrapper-carousel-section {
+  padding: 40px 0 50px;
+  overflow: hidden !important;
+}
+
+.wrapper-best-selling-product .wrapper-carousel-section .card {
+  padding: 15px !important;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .card-title {
+  padding: 0 !important;
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .card-title
+  .MuiTypography-root {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 22px !important;
+  color: #000 !important;
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .card-media {
+  width: 100%;
+  height: 200px; /* Fixed height */
+  object-fit: contain; /* Maintain image aspect ratio */
+  margin: auto;
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .price {
+  font-size: 18px !important;
+  font-weight: 700;
+  color: #000;
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .favourite-icon {
+  height: 16px;
+  width: 16px;
+  cursor: pointer;
+}
+
+.favourite-icon:hover {
+  fill: #d1093f !important;
+}
+
+.wrapper-best-selling-product
+  .wrapper-carousel-section
+  .best-selling-carousel
+  .card
+  .add-to-card-btn {
+  background-color: #d1093f;
+  padding: 10px !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+}
+
+.add-to-card-btn:hover {
+  background-color: #000 !important;
+}

@@ -1,0 +1,176 @@
+.wrapper-footer {
+  background-color: #d1093f;
+}
+
+.wrapper-footer .news-letter-section {
+  padding: 70px 0 !important;
+}
+
+.wrapper-footer .news-letter-section .news-letter-container {
+  max-width: 1360px !important;
+  padding: 0px !important;
+  margin: auto;
+}
+
+.wrapper-footer .news-letter-section .news-letter-icon {
+  height: 60px;
+  width: 60px;
+  margin-right: 30px;
+  color: white !important;
+  fill: white !important;
+}
+
+.wrapper-footer .news-letter-section .news-letter-heading {
+  font-size: 26px !important;
+  line-height: 32px !important;
+  color: #fff;
+  font-weight: 600;
+  margin: 0 0 5px 0;
+}
+
+.wrapper-footer .news-letter-section .news-letter-subheading {
+  margin: 0 !important;
+  color: #fff;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+}
+
+.wrapper-footer .news-letter-section .subscribe-textfield .MuiInputBase-root {
+  border-color: #fff !important;
+  height: 56px !important;
+  background-color: #fff !important;
+  padding-right: 0 !important;
+}
+
+.wrapper-footer
+  .news-letter-section
+  .subscribe-textfield
+  .MuiOutlinedInput-notchedOutline {
+  border-color: transparent !important;
+}
+
+.wrapper-footer .news-letter-section .subscribe-button {
+  color: white !important;
+  background-color: #000;
+  height: 56px !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+.wrapper-footer .news-letter-section .subscribe-button:hover {
+  border: 1px solid #fff !important;
+}
+
+.wrapper-footer .wrapper-footer-nav {
+  background-color: #202020;
+  padding: 50px 0;
+  color: #fff !important;
+  font-size: 14px !important;
+}
+
+.wrapper-footer .wrapper-footer-nav .footer-nav-container {
+  max-width: 1360px !important;
+  padding: 0px !important;
+  margin: auto;
+}
+
+.wrapper-footer a {
+  color: #fff !important;
+}
+
+.wrapper-footer a:hover {
+  color: #d1093f !important;
+  text-decoration: underline !important;
+  transition: 0.3s ease;
+}
+
+.wrapper-footer .wrapper-footer-nav .address {
+  padding: 0 12px;
+  margin: 10px 0;
+}
+
+.wrapper-footer .wrapper-footer-nav .social-icon-section {
+  font-size: 17px !important;
+  letter-spacing: 0;
+  line-height: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+.wrapper-footer .wrapper-footer-nav .social-icon-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 37px;
+  height: 37px;
+  border: 1px solid white;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.wrapper-footer .wrapper-footer-nav .social-icon-link:hover {
+  background-color: #d1093f !important;
+}
+
+.wrapper-footer .wrapper-footer-nav .social-icon-link .social-icon {
+  fill: #fff !important;
+  color: #fff !important;
+  width: 17px;
+  height: 17px;
+}
+
+.wrapper-footer .wrapper-footer-nav .nav-col {
+  padding: 0 20px;
+  border-right: 1px solid #515151;
+}
+
+.wrapper-footer .wrapper-footer-nav .nav-col:first-child {
+  padding: 0 20px 0 0 !important;
+}
+
+.wrapper-footer .wrapper-footer-nav .nav-col:last-child {
+  padding: 0 0 0 20px !important;
+  border: none !important;
+}
+
+.wrapper-footer .wrapper-footer-nav .footer-nav-heading {
+  font-size: 17px !important;
+  font-weight: 500;
+  border-bottom: 1px solid #515151;
+  padding-bottom: 10px;
+  margin: 0 0 20px 0;
+  text-transform: uppercase;
+}
+
+.wrapper-footer .wrapper-footer-nav .wrapper-footer-nav-image {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.wrapper-footer
+  .wrapper-footer-nav
+  .wrapper-footer-nav-image
+  .footer-nav-image {
+  height: 43px;
+  width: 115px;
+  margin: 0 0 20px 0;
+}
+
+.wrapper-footer .wrapper-footer-copyright {
+  padding: 12px 0;
+  background-color: #202020;
+  border-top: 1px solid #515151;
+  color: #fff !important;
+}
+
+.wrapper-footer .wrapper-footer-copyright .footer-copyright-container {
+  max-width: 1360px !important;
+  padding: 0px !important;
+  margin: auto;
+}
+
+.wrapper-footer .wrapper-footer-copyright .culinary-depot-link:hover {
+  color: #d1093f !important;
+  text-decoration: none !important;
+}

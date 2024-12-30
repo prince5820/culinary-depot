@@ -1,0 +1,74 @@
+/* FormControl Styles */
+.custom-form-control {
+  width: 100% !important;
+  margin-bottom: 30px !important;
+}
+
+/* FormLabel Styles */
+.custom-form-label {
+  margin-bottom: 12px;
+  font-size: 16px !important;
+  color: #000 !important;
+}
+
+/* Select Styles */
+.custom-select {
+  padding: 0; /* No padding inside the select box */
+  border-radius: 0; /* No border radius */
+  cursor: pointer; /* Pointer cursor for select box */
+  width: 440px; /* Initial width */
+  transition: width 0.3s ease; /* Smooth transition for width change */
+}
+
+.custom-select .MuiOutlinedInput-notchedOutline {
+  border-color: #ccc !important; /* Default black border */
+  border-radius: 0; /* No border radius */
+  cursor: pointer; /* Pointer cursor for outlined border */
+}
+
+.custom-select:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #ccc !important; /* Black border on hover */
+}
+
+.custom-select.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #ccc !important; /* Black border on focus */
+}
+
+.custom-select .MuiSelect-icon {
+  display: none; /* Hide arrow icon */
+}
+
+/* Menu Styles */
+.custom-menu-paper {
+  box-shadow: none !important; /* No box shadow */
+  border: 1px solid #ccc !important; /* Black border */
+  padding: 0; /* No padding */
+  border-radius: 0; /* No border radius */
+}
+
+.custom-menu-list {
+  padding: 0 !important; /* No padding inside menu list */
+}
+
+/* Menu Item Styles */
+.custom-menu-item {
+  border: 1px solid #ccc !important; /* Black border around each item */
+  padding: 8px 10px 8px 40px !important; /* Padding for items */
+  cursor: pointer; /* Pointer cursor for menu items */
+}
+
+.custom-menu-item:hover {
+  background-color: transparent; /* No hover background */
+}
+
+.custom-menu-item.Mui-selected {
+  background-color: transparent !important; /* No active background */
+}
+
+.custom-menu-item.Mui-selected:hover {
+  background-color: transparent !important; /* No hover background when active */
+}
+
+.MuiListItemText-root .MuiTypography-root {
+  font-size: 14px !important;
+}

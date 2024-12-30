@@ -1,0 +1,50 @@
+.wrapper-top-pencil-banner {
+  padding: 0px 15px;
+  background-color: rgb(229 229 229 / 29%);
+  margin: 0 auto;
+}
+
+.wrapper-top-pencil-banner .pencil-banner-section {
+  padding: 5px 10px;
+}
+
+.wrapper-top-pencil-banner .pencil-banner-section .pro-banner-section {
+  background-color: #282b30;
+  padding: 3px 5px;
+  border-radius: 15px;
+  font-size: 10px;
+  color: #fff;
+  margin: 0 10px 0 0;
+}
+
+.wrapper-top-pencil-banner
+  .pencil-banner-section
+  .pro-banner-section
+  .pro-content {
+  font-weight: 500;
+  padding: 0 15px;
+  font-size: 10px !important;
+}
+
+.wrapper-top-pencil-banner
+  .pencil-banner-section
+  .pro-banner-section
+  .pro-link {
+  font-weight: 700;
+  border-radius: 15px;
+  color: #fff !important;
+  border: 1px solid #fff;
+  width: 80px;
+  height: 20px;
+}
+
+.pro-link:hover {
+  background-color: #d1093f;
+}
+
+.wrapper-top-pencil-banner .pencil-banner-section .pencil-banner-link {
+  font-size: 12px !important;
+  padding: 5px 10px;
+  font-weight: 600;
+  margin: 0 10px 0 0;
+}
