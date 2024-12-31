@@ -21,7 +21,7 @@ const TopPencilBanner = () => {
         <Box className="pro-banner-section d-flex align-item-center justify-content-between">
           <Box
             component="img"
-            src="/src/assets/icons/pro-icon.png"
+            src="/images/pro-icon.png"
             alt="pro-icon"
             sx={{
               width: "52px",
