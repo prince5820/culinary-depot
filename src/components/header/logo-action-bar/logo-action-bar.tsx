@@ -27,7 +27,7 @@ const LogoActionBar = () => {
             <Link to="#">
               <Box
                 component="img"
-                src="/src/assets/images/logo.webp" // Replace with your logo URL
+                src="/public/images/logo.webp"
                 alt="Culinary Depot Logo"
                 style={{ height: 50 }}
               />

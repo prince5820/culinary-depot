@@ -14,7 +14,7 @@ const Header = () => {
     return () => {
       window.removeEventListener("scroll", handleScroll); // Cleanup listener
     };
-  }, []);
+  }, [scrollPosition]);
 
   const handleScroll = () => {
     const currentScrollPosition = window.scrollY;

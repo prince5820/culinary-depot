@@ -8,7 +8,7 @@ const StickyHeader = () => {
         <Box className="d-flex align-item-center">
           <Box
             component="img"
-            src="/src/assets/images/product-image-1.jpg"
+            src="/public/images/product-image-1.jpg"
             alt="Scotsman Air Cooled Ice Maker"
             className="sticky-header-product-img"
           />

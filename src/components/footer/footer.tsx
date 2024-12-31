@@ -94,7 +94,7 @@ const Footer = () => {
             <Grid2 size={3.12} className="nav-col">
               <Box
                 component="img"
-                src="/src/assets/images/logo-white-footer.webp"
+                src="/public/images/logo-white-footer.webp"
                 alt="White Logo Footer"
               />
               <Box className="address">
@@ -168,14 +168,14 @@ const Footer = () => {
             <Grid2 size={1.68} className="wrapper-footer-nav-image nav-col">
               <Box
                 component="img"
-                src="/src/assets/images/footer-nav-img-1.webp"
+                src="/public/images/footer-nav-img-1.webp"
                 alt="Culinary Depot Review Image"
                 className="footer-nav-image"
               />
               <Link to="#">
                 <Box
                   component="img"
-                  src="/src/assets/images/footer-nav-img-2.webp"
+                  src="/public/images/footer-nav-img-2.webp"
                   alt="Accredited Bussiness Image"
                   className="footer-nav-image"
                 />

@@ -8,7 +8,7 @@ const TopPencilBanner = () => {
       <Link to="#">
         <Box
           component="img"
-          src="/src/assets/images/visit-showroom-img.webp"
+          src="/public/images/visit-showroom-img.webp"
           alt="visit-showroom-image"
           sx={{
             height: "auto",
