@@ -28,23 +28,23 @@ const ProductDetails = () => {
 
   const productThumbnails = [
     {
-      imageUrl: "/public/images/product-view-thumbnail-img-1.jpg",
+      imageUrl: "/images/product-view-thumbnail-img-1.jpg",
       alt: "Product View Thumbnail",
     },
     {
-      imageUrl: "/public/images/product-view-thumbnail-img-2.jpg",
+      imageUrl: "/images/product-view-thumbnail-img-2.jpg",
       alt: "Product View Thumbnail",
     },
     {
-      imageUrl: "/public/images/product-view-thumbnail-img-3.jpg",
+      imageUrl: "/images/product-view-thumbnail-img-3.jpg",
       alt: "Product View Thumbnail",
     },
     {
-      imageUrl: "/public/images/product-view-thumbnail-img-4.jpg",
+      imageUrl: "/images/product-view-thumbnail-img-4.jpg",
       alt: "Product View Thumbnail",
     },
     {
-      imageUrl: "/public/images/product-view-thumbnail-img-5.jpg",
+      imageUrl: "/images/product-view-thumbnail-img-5.jpg",
       alt: "Product View Thumbnail",
       isYoutube: true,
     },
@@ -55,12 +55,12 @@ const ProductDetails = () => {
       <Grid2 size={6}>
         <Box
           component="img"
-          src="/public/images/scotsman-brand-name-logo.jpg"
+          src="/images/scotsman-brand-name-logo.jpg"
           alt="Brand Name Logo"
         />
         <Box
           component="img"
-          src="/public/images/product-image-1.jpg"
+          src="/images/product-image-1.jpg"
           alt="Scotsman Air Cooled Ice Maker"
           className="scotsman-ice-maker-img"
         />
@@ -83,7 +83,7 @@ const ProductDetails = () => {
                 {thumbnail.isYoutube && (
                   <Box
                     component="img"
-                    src="/public/images/product-view-thumbnail-img-youtube-play.webp"
+                    src="/images/product-view-thumbnail-img-youtube-play.webp"
                     alt="YouTube Play Icon"
                     className="youtube-play-icon"
                   />
@@ -138,7 +138,7 @@ const ProductDetails = () => {
         <Box className="free-shipping-credit-key-section">
           <Box
             component="img"
-            src="/public/images/freeshipping.webp"
+            src="/images/freeshipping.webp"
             alt="Free Shipping Image"
           />
           <Link to="#" className="credit-key">
@@ -146,7 +146,7 @@ const ProductDetails = () => {
               From $294 / month with &nbsp;
               <Box
                 component="img"
-                src="/public/images/credit-key.png"
+                src="/images/credit-key.png"
                 alt="Credit Key"
                 sx={{ height: "17px", width: "83px" }}
               />
@@ -170,7 +170,7 @@ const ProductDetails = () => {
               </Typography>
               <Box
                 component="img"
-                src="/public/icons/pro-icon.png"
+                src="/icons/pro-icon.png"
                 alt="Pro Button"
                 className="pro-img"
                 sx={{ marginLeft: "20px" }}
@@ -319,7 +319,7 @@ const ProductDetails = () => {
         <Divider sx={{ marginBottom: "20px" }} />
         <Box
           component="img"
-          src="/public/images/cd-instock-new-icon.jpg"
+          src="/images/cd-instock-new-icon.jpg"
           alt="In stock icon"
           sx={{
             height: "26.55px",

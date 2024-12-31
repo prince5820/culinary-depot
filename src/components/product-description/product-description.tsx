@@ -360,13 +360,13 @@ const ProductDescription = () => {
               <Divider sx={{ margin: "60px 0 20px 0" }} />
               <Box
                 component="img"
-                src="/public/images/NSF Listed.webp"
+                src="/images/NSF Listed.webp"
                 alt="NSF Listed"
                 sx={{ marginRight: "10px" }}
               />
               <Box
                 component="img"
-                src="/public/images/UL US.webp"
+                src="/images/UL US.webp"
                 alt="UL US"
               />
             </Box>
@@ -625,13 +625,13 @@ const ProductDescription = () => {
               <Divider sx={{ margin: "60px 0 20px 0" }} />
               <Box
                 component="img"
-                src="/public/images/NSF Listed.webp"
+                src="/images/NSF Listed.webp"
                 alt="NSF Listed"
                 sx={{ marginRight: "10px" }}
               />
               <Box
                 component="img"
-                src="/public/images/UL US.webp"
+                src="/images/UL US.webp"
                 alt="UL US"
               />
             </Box>
@@ -847,13 +847,13 @@ const ProductDescription = () => {
               <Divider sx={{ margin: "60px 0 20px 0" }} />
               <Box
                 component="img"
-                src="/public/images/NSF Listed.webp"
+                src="/images/NSF Listed.webp"
                 alt="NSF Listed"
                 sx={{ marginRight: "10px" }}
               />
               <Box
                 component="img"
-                src="/public/images/UL US.webp"
+                src="/images/UL US.webp"
                 alt="UL US"
               />
             </Box>

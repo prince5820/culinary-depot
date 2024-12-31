@@ -23,35 +23,35 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Cooking Equipment",
-          imageUrl: "/public/images/coooking equipment.jpg",
+          imageUrl: "/images/coooking equipment.jpg",
         },
         {
           name: "Commercial Oven",
-          imageUrl: "/public/images/commercial oven.jpg",
+          imageUrl: "/images/commercial oven.jpg",
         },
         {
           name: "Commercial Ice Equipment and Supplies",
-          imageUrl: "/public/images/commercial ice machines (2).jpg",
+          imageUrl: "/images/commercial ice machines (2).jpg",
         },
         {
           name: "Food Preparation",
-          imageUrl: "/public/images/food preparation 1.jpg",
+          imageUrl: "/images/food preparation 1.jpg",
         },
         {
           name: "Beverage Equipment",
-          imageUrl: "/public/images/beverage equipment 1.jpg",
+          imageUrl: "/images/beverage equipment 1.jpg",
         },
         {
           name: "Commercial Work Tables and Station",
-          imageUrl: "/public/images/commercial work tables and station.jpg",
+          imageUrl: "/images/commercial work tables and station.jpg",
         },
         {
           name: "Dishwashing Equipment",
-          imageUrl: "/public/images/dishwashing equipment.jpg",
+          imageUrl: "/images/dishwashing equipment.jpg",
         },
         {
           name: "Food Holding and Warming Equipment",
-          imageUrl: "/public/images/food holding and warming equipment.jpg",
+          imageUrl: "/images/food holding and warming equipment.jpg",
         },
       ],
       subLinks: [
@@ -68,36 +68,36 @@ const Navbar = () => {
         {
           name: "Reach-In Refrigerators and Freezers",
           imageUrl:
-            "/public/images/reach-in-refrigerators-and -freezers-1.jpg",
+            "/images/reach-in-refrigerators-and -freezers-1.jpg",
         },
         {
           name: "Prep Refrigeration",
-          imageUrl: "/public/images/prep-refrigeration-2.jpg",
+          imageUrl: "/images/prep-refrigeration-2.jpg",
         },
         {
           name: "Bar Refrigerator",
-          imageUrl: "/public/images/bar-refrigerator-4.jpg",
+          imageUrl: "/images/bar-refrigerator-4.jpg",
         },
         {
           name: "Merchandising and Display Refrigeration",
           imageUrl:
-            "/public/images/merchandising-display- refrigeration-3.jpg",
+            "/images/merchandising-display- refrigeration-3.jpg",
         },
         {
           name: "Undercounter Refrigerators",
-          imageUrl: "/public/images/undercounter-refrigerators-5.jpg",
+          imageUrl: "/images/undercounter-refrigerators-5.jpg",
         },
         {
           name: "Worktop Refrigerators",
-          imageUrl: "/public/images/worktop-refrigerators-8.jpg",
+          imageUrl: "/images/worktop-refrigerators-8.jpg",
         },
         {
           name: "Undercounter Freezer",
-          imageUrl: "/public/images/undercounter-freezer-6.jpg",
+          imageUrl: "/images/undercounter-freezer-6.jpg",
         },
         {
           name: "Worktop Freezer",
-          imageUrl: "/public/images/worktop-freezers-7.jpg",
+          imageUrl: "/images/worktop-freezers-7.jpg",
         },
       ],
       subLinks: [
@@ -113,35 +113,35 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Kitchen Cutlery",
-          imageUrl: "/public/images/kitchen20cutlery20120(1).jpg",
+          imageUrl: "/images/kitchen20cutlery20120(1).jpg",
         },
         {
           name: "Cookware",
-          imageUrl: "/public/images/cookware201.jpg",
+          imageUrl: "/images/cookware201.jpg",
         },
         {
           name: "Food Storage Supplies",
-          imageUrl: "/public/images/food20storage20supplies201.jpg",
+          imageUrl: "/images/food20storage20supplies201.jpg",
         },
         {
           name: "Kitchen Hand Tool",
-          imageUrl: "/public/images/kitchen20hand20tool20(1).jpg",
+          imageUrl: "/images/kitchen20hand20tool20(1).jpg",
         },
         {
           name: "Baking Smallware",
-          imageUrl: "/public/images/baking20smallwares.jpg",
+          imageUrl: "/images/baking20smallwares.jpg",
         },
         {
           name: "Serving Supplies",
-          imageUrl: "/public/images/serving20supplies201.jpg",
+          imageUrl: "/images/serving20supplies201.jpg",
         },
         {
           name: "Kitchen Supplies",
-          imageUrl: "/public/images/kitchen20supplies201.jpg",
+          imageUrl: "/images/kitchen20supplies201.jpg",
         },
         {
           name: "Beverage Supplies",
-          imageUrl: "/public/images/beverage20supplies201.jpg",
+          imageUrl: "/images/beverage20supplies201.jpg",
         },
       ],
       subLinks: [
@@ -162,37 +162,37 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Carts",
-          imageUrl: "/public/images/carts20120(1).jpg",
+          imageUrl: "/images/carts20120(1).jpg",
         },
         {
           name: "Dinnerware Storage and Transports",
           imageUrl:
-            "/public/images/dinnerware20storage20and20transports20120(2).jpg",
+            "/images/dinnerware20storage20and20transports20120(2).jpg",
         },
         {
           name: "Ice Transports Buckets and Mobile Ice Bins",
-          imageUrl: "/public/images/ice20transport20buckets20120(1).jpg",
+          imageUrl: "/images/ice20transport20buckets20120(1).jpg",
         },
         {
           name: "Industrial Supplies",
-          imageUrl: "/public/images/industrial20supplies201.jpg",
+          imageUrl: "/images/industrial20supplies201.jpg",
         },
         {
           name: "Insulated Food Carriers and Beverage Dispensers",
           imageUrl:
-            "/public/images/insulated20food20carriers20and20beverage20dispensers201.jpg",
+            "/images/insulated20food20carriers20and20beverage20dispensers201.jpg",
         },
         {
           name: "Delivery Bag Accessories",
-          imageUrl: "/public/images/delivery20bags201.jpg",
+          imageUrl: "/images/delivery20bags201.jpg",
         },
         {
           name: "Storage Rack",
-          imageUrl: "/public/images/storage20rack20120(1).jpg",
+          imageUrl: "/images/storage20rack20120(1).jpg",
         },
         {
           name: "Trucks and Dollies",
-          imageUrl: "/public/images/trucks20and20dollies20120(1).jpg",
+          imageUrl: "/images/trucks20and20dollies20120(1).jpg",
         },
       ],
     },
@@ -201,37 +201,37 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Dinnerware",
-          imageUrl: "/public/images/dinnerware201.jpg",
+          imageUrl: "/images/dinnerware201.jpg",
         },
         {
           name: "Flatware",
-          imageUrl: "/public/images/flatware201.jpg",
+          imageUrl: "/images/flatware201.jpg",
         },
         {
           name: "Beverageware",
-          imageUrl: "/public/images/beverageware201.jpg",
+          imageUrl: "/images/beverageware201.jpg",
         },
         {
           name: "Condiment Holders and Dispensers",
           imageUrl:
-            "/public/images/condiment20holders20and20dispensers201.jpg",
+            "/images/condiment20holders20and20dispensers201.jpg",
         },
         {
           name: "Menu Holders and Guest Check Presenters",
           imageUrl:
-            "/public/images/menu20holders20and20guest20check20presenters201.jpg",
+            "/images/menu20holders20and20guest20check20presenters201.jpg",
         },
         {
           name: "Tabletop Beverage Service",
-          imageUrl: "/public/images/tabletop20beverage20service201.jpg",
+          imageUrl: "/images/tabletop20beverage20service201.jpg",
         },
         {
           name: "Tabletop Display and Decor",
-          imageUrl: "/public/images/tabletop20display20and20decor201.jpg",
+          imageUrl: "/images/tabletop20display20and20decor201.jpg",
         },
         {
           name: "Asian Restaurant Tabletop Supplies",
-          imageUrl: "/public/images/asian20restaurant20tabletop201.jpg",
+          imageUrl: "/images/asian20restaurant20tabletop201.jpg",
         },
       ],
       subLinks: ["Linen and Table Covers"],
@@ -241,38 +241,38 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Catering Disposable",
-          imageUrl: "/public/images/catering20disposables.jpg",
+          imageUrl: "/images/catering20disposables.jpg",
         },
         {
           name: "Disposable Bakery Supplies",
-          imageUrl: "/public/images/disposable20bakery20supplies201.jpg",
+          imageUrl: "/images/disposable20bakery20supplies201.jpg",
         },
         {
           name: "Disposable Chopstick",
-          imageUrl: "/public/images/disposable20chopstick201.jpg",
+          imageUrl: "/images/disposable20chopstick201.jpg",
         },
         {
           name: "Disposable Concession Supplies",
           imageUrl:
-            "/public/images/disposable20concession20supplies201.jpg",
+            "/images/disposable20concession20supplies201.jpg",
         },
         {
           name: "Disposable Food Packaging Supplies",
           imageUrl:
-            "/public/images/disposable20food20packaging20supplies201.jpg",
+            "/images/disposable20food20packaging20supplies201.jpg",
         },
         {
           name: "Disposable Host and Server Supplies",
           imageUrl:
-            "/public/images/disposable20host20and20server20supplies201.jpg",
+            "/images/disposable20host20and20server20supplies201.jpg",
         },
         {
           name: "Eco-Friendly Disposable",
-          imageUrl: "/public/images/eco frendly disposibels.webp",
+          imageUrl: "/images/eco frendly disposibels.webp",
         },
         {
           name: "Food Safety Disposables",
-          imageUrl: "/public/images/food20safety20disposables201.jpg",
+          imageUrl: "/images/food20safety20disposables201.jpg",
         },
       ],
       subLinks: [
@@ -286,35 +286,35 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Restaurant Table",
-          imageUrl: "/public/images/restaurant table 1.jpg",
+          imageUrl: "/images/restaurant table 1.jpg",
         },
         {
           name: "Restaurant Seating",
-          imageUrl: "/public/images/restaurant seating 1.jpg",
+          imageUrl: "/images/restaurant seating 1.jpg",
         },
         {
           name: "Commercial Outdoor Furnitures",
-          imageUrl: "/public/images/commercial outdoor furnitures 1.jpg",
+          imageUrl: "/images/commercial outdoor furnitures 1.jpg",
         },
         {
           name: "School Furniture",
-          imageUrl: "/public/images/school furniture.jpg",
+          imageUrl: "/images/school furniture.jpg",
         },
         {
           name: "Folding Chairs and Tables",
-          imageUrl: "/public/images/folding chairs and table.jpg",
+          imageUrl: "/images/folding chairs and table.jpg",
         },
         {
           name: "Commercial Decors",
-          imageUrl: "/public/images/commercial-decors.webp",
+          imageUrl: "/images/commercial-decors.webp",
         },
         {
           name: "Coat Rack",
-          imageUrl: "/public/images/coat rack 1.jpg",
+          imageUrl: "/images/coat rack 1.jpg",
         },
         {
           name: "Server Station and Host Stand",
-          imageUrl: "/public/images/server-station-and-host-stand.jpg",
+          imageUrl: "/images/server-station-and-host-stand.jpg",
         },
       ],
     },
@@ -323,36 +323,36 @@ const Navbar = () => {
       subMenu: [
         {
           name: "Cleaning Chemicals",
-          imageUrl: "/public/images/cleaning20chemicals201.jpg",
+          imageUrl: "/images/cleaning20chemicals201.jpg",
         },
         {
           name: "Janitorial Equipment",
-          imageUrl: "/public/images/janitorial-equipment.jpg",
+          imageUrl: "/images/janitorial-equipment.jpg",
         },
         {
           name: "Recycling Bins and Trash Cans",
-          imageUrl: "/public/images/recycling20and20trash20cans.jpg",
+          imageUrl: "/images/recycling20and20trash20cans.jpg",
         },
         {
           name: "Laundry/Warehousing",
-          imageUrl: "/public/images/laundry2020warewashing.jpg",
+          imageUrl: "/images/laundry2020warewashing.jpg",
         },
         {
           name: "Facility Maintenance and Sanitation",
           imageUrl:
-            "/public/images/facility20maintenance20and20sanitation.jpg",
+            "/images/facility20maintenance20and20sanitation.jpg",
         },
         {
           name: "Cleaning Supplies and Tools",
-          imageUrl: "/public/images/cleaning20supplies20and20tools201.jpg",
+          imageUrl: "/images/cleaning20supplies20and20tools201.jpg",
         },
         {
           name: "Floor Care Supply",
-          imageUrl: "/public/images/floor20care20supplies.jpg",
+          imageUrl: "/images/floor20care20supplies.jpg",
         },
         {
           name: "Restroom Supply",
-          imageUrl: "/public/images/restroom20supply.jpg",
+          imageUrl: "/images/restroom20supply.jpg",
         },
       ],
       subLinks: [

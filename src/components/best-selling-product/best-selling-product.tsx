@@ -19,55 +19,55 @@ const BestSellingProduct = () => {
       id: 1,
       name: "Scotsman MC0330MA-32 400 Lbs. Prodigy ELITE Air Co…",
       price: "3,223.00",
-      img: "/public/images/best-selling-product-img-1.jpg",
+      img: "/images/best-selling-product-img-1.jpg",
     },
     {
       id: 2,
       name: "Scotsman MC0330SA-1 400 Lbs. Prodigy ELITE Air Coo…",
       price: "3,173.00",
-      img: "/public/images/best-selling-product-img-2.jpg",
+      img: "/images/best-selling-product-img-2.jpg",
     },
     {
       id: 3,
       name: "Scotsman MC0530SA-1 525 Lbs. Prodigy ELITE Air Coo…",
       price: "3,525.00",
-      img: "/public/images/best-selling-product-img-3.jpg",
+      img: "/images/best-selling-product-img-3.jpg",
     },
     {
       id: 4,
       name: "Scotsman MC0522SA-1 475 Lbs. Prodigy ELITE Air Coo…",
       price: "3,570.00",
-      img: "/public/images/best-selling-product-img-4.jpg",
+      img: "/images/best-selling-product-img-4.jpg",
     },
     {
       id: 5,
       name: "Scotsman MC0322SA-1 356 Lbs. Prodigy ELITE Air Coo…",
       price: "3,367.00",
-      img: "/public/images/best-selling-product-img-5.jpg",
+      img: "/images/best-selling-product-img-5.jpg",
     },
     {
       id: 6,
       name: "Scotsman MC0530Ma-1 525 Lbs. Prodigy ELITE Air Coo…",
       price: "3,525.00",
-      img: "/public/images/best-selling-product-img-6.jpg",
+      img: "/images/best-selling-product-img-6.jpg",
     },
     {
       id: 7,
       name: "Scotsman MC430L-1 1425 to 1775 Lbs. Cube Style Pro…",
       price: "3,996.00",
-      img: "/public/images/best-selling-product-img-7.jpg",
+      img: "/images/best-selling-product-img-7.jpg",
     },
     {
       id: 8,
       name: "Scotsman MC0830SA-32 905 Lbs. Prodigy ELITE Air Co…",
       price: "5,454.00",
-      img: "/public/images/best-selling-product-img-8.jpg",
+      img: "/images/best-selling-product-img-8.jpg",
     },
     {
       id: 9,
       name: "Scotsman MC1448SA-32 1553 Lbs. Air Cooled Cube Sty…",
       price: "7,287.00",
-      img: "/public/images/best-selling-product-img-9.jpg",
+      img: "/images/best-selling-product-img-9.jpg",
     },
   ];
 
@@ -135,7 +135,7 @@ const BestSellingProduct = () => {
               </Link>
               <Box
                 component="img"
-                src="/public/images/freeshipping.webp"
+                src="/images/freeshipping.webp"
                 alt="Free Shipping"
               />
               <Box
