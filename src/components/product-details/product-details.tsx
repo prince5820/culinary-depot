@@ -170,7 +170,7 @@ const ProductDetails = () => {
               </Typography>
               <Box
                 component="img"
-                src="/icons/pro-icon.png"
+                src="/images/pro-icon.png"
                 alt="Pro Button"
                 className="pro-img"
                 sx={{ marginLeft: "20px" }}
